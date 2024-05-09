@@ -17,3 +17,5 @@ Tech stake -> react(vite), ts, graphql, ant design, refine, nestjs
    npm i -D typescript @graphql-codegen/cli 
 
    npm install --save-dev @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/import-types-preset prettier vite-tsconfig-paths
+
+3. rafce to create functional component
